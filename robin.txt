@@ -1,1 +1,2 @@
 hello everyonne
+this is my second day using github
